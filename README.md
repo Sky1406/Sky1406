@@ -35,11 +35,11 @@ I’m currently strengthening my foundations in Python, machine learning, deep l
 
 Project repositories and demos will be linked here as they become ready.
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 - **GitHub:** [@Sky1406](https://github.com/Sky1406)
-- **LinkedIn:** Add your LinkedIn profile URL here
-- **Email:** Add your professional contact email here
+- **LinkedIn:** 
+- **Email:** shivayamini10@gmail.com
 
 ---
 
