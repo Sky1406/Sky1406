@@ -6,7 +6,7 @@ I'm an aspiring AI/ML Engineer passionate about building practical AI applicatio
 
 I’m currently strengthening my foundations in Python, machine learning, deep learning, and software development while building projects that demonstrate my technical skills and problem-solving abilities.
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 
 - **ArchAI Studio** — An AI-powered software engineering platform.
 - **Nexus AI** — A research assistant for document analysis and evidence-grounded answers.
@@ -15,7 +15,7 @@ I’m currently strengthening my foundations in Python, machine learning, deep l
 
 *These projects are under development. I'll update each repository as features are implemented and tested.*
 
-## 🛠️ Technologies I'm Learning
+##  Technologies I'm Learning
 
 - **Programming:** Python, Java, SQL
 - **AI/ML:** Machine Learning, Deep Learning, Computer Vision
@@ -23,7 +23,7 @@ I’m currently strengthening my foundations in Python, machine learning, deep l
 - **Development Tools:** Git, GitHub, VS Code
 - **Backend & Data:** FastAPI, Flask, PostgreSQL
 
-## 🎯 Current Goals
+##  Current Goals
 
 - Build and document end-to-end AI/ML projects.
 - Strengthen Python, data structures, and algorithms.
@@ -31,7 +31,7 @@ I’m currently strengthening my foundations in Python, machine learning, deep l
 - Contribute to open-source projects.
 - Prepare for AI/ML and software engineering opportunities.
 
-## 📌 Featured Projects
+##  Featured Projects
 
 Project repositories and demos will be linked here as they become ready.
 
